@@ -4,5 +4,5 @@ CAPs analysis of beta-diversity using bray-curtis dissimilarity. Three data sets
 ## File mapping
 
 ### Seperate Folder
--test file 1. 
+-test file 1<br/>
 -test
