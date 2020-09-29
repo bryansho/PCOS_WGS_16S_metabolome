@@ -28,10 +28,15 @@ CAPs analysis of beta-diversity using bray-curtis dissimilarity. Three data sets
   
   ### Permanova Folder (Includes files for individual CAP analysis)
   #### 16S
-  - 
-  - sckitbio_permanova.ipynb = Jupyter notebook that includes analysis for creating CAPs analysis for Metabolite (week 0 - week 5), 16S (week 2 and 5), WGS (week 2 and 5)
-  - otu_table_T2.tsv = Week 2 WGS centrifuge microbial taxonomy count data
-  - otu_table_T2.tsv = Week 5 WGS centrifuge microbial taxonomy count data
-  - mapping_file_cohousing2018.tsv = 16S QIIME taxonomy count data
+  - sckitbio_permanova.ipynb = Jupyter notebook that includes Permanova analysis for 16S (week 2 and 5)
+  - otu_table_T2.tsv = Week 2 16s taxonomy count data
+  - otu_table_T5.tsv = Week 5 16s taxonomy count data
+  - mapping_file_cohousing2018.tsv = 16S QIIME Mapping file
   #### WGS
+  - sckitbio_permanova.ipynb = Jupyter notebook that includes Permanova analysis for 16S (week 2 and 5)
+  - Deseq2_T2_mapping.csv = WGS Week 5 mapping file. Includes meta data for each sample
+  - Deseq2_T5_mapping.csv = WGS Week 5 mapping file. Includes meta data for each sample
+  - Permanova_T2_filtered_greater_00001.csv = WGS Week 2 count data
+  - Permanova_T5_filtered_greater_00001.csv = WGS Week 5 count data
+  
   
