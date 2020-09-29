@@ -3,6 +3,6 @@ CAPs analysis of beta-diversity using bray-curtis dissimilarity. Three data sets
 
 ## File mapping
 
-### Seperate Folder
-  <p>-16s_map.csv = 16S mapping file. Includes sample ID associated with timepoint and treatment.</p>
+1.Seperate Folder
+  -16s_map.csv = 16S mapping file. Includes sample ID associated with timepoint and treatment.
   -test
