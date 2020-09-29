@@ -9,3 +9,12 @@ Random forest on multi-omics and independent dataset.
   - T2_Known_WSG_LvCoL.csv = Letrozole vs. Cohoused-letrozole Metabolites and WGS dataset 
   - T2_WSG_BA_LvCoL.csv = Letrozole vs. Cohoused-letrozole Bile acids and WGS dataset
 
+# Independent Dataset
+## T2/T5 (Same file structure)
+  - T2_RF_Individual_data_set.ipynb = Jupyter notebook with independent random forest execution
+  - T2_BA_LvCoL.csv = Letrozole vs Cohoused-letrozole bile acid dataset 
+  - T2_BA_PvL.csv = Placebo vs. Letrozole Bile acids dataset
+  - T2_Known_LvCoL.csv = Letrozole vs Cohoused-letrozole metabolite dataset
+  - T2_Known_PvL.csv = Placebo vs. Letrozole metabolite dataset
+  - T2_WSG_LvCoL.csv = Letrozole vs Cohoused-letrozole WGS dataset
+  - T2_WSG_PvL.csv = Placebo vs. Letrozole WGS dataset
