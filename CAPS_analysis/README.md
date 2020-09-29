@@ -1,5 +1,5 @@
 # Descirption
-CAPs analysis of beta-diversity using bray-curtis dissimilarity. Three data sets were used: 1) Gut Metabolites, 2) Gut 16S sequencing, and 3) WGS metagenome.
+CAPs analysis of beta-diversity using bray-curtis dissimilarity. Three data sets were used: 1) Gut Metabolites, 2) Gut 16S sequencing, and 3) WGS metagenome. PERMANOVA (999 permutations) was used to evaluate differentiation between treatments. 
 
 ## File mapping
 
