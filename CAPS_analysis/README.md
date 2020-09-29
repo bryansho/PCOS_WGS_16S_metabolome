@@ -42,3 +42,15 @@ CAPs analysis of beta-diversity using bray-curtis dissimilarity. Three data sets
   - Deseq2_T2_mapping.csv = Sample Mapping file 
   - Permanova_T2_Omics.ipynb = Jupyter notebook for PERMANOVA analysis
   - T2_Metabolites_WGS.csv = Combined count data
+   #### Metabolites+16S and Metabolites
+  - Map_file.csv = Sample Mapping file 
+  - Danny's Permanova.ipynb = Jupyter notebook for PERMANOVA analysis of both metabolites individualy and metabolites combined with 16S
+  - Metabolites_16S_T2_no_OTU.csv  = Combined count data week 2
+  - Metabolites_16S_T5_no_OTU.csv  = Combined count data week 5
+  - Unknown_Cutoff_T0_No-OTU.csv  = metabolite count data week 0
+  - Unknown_Cutoff_T1_No-OTU.csv  = metabolite count data week 1
+  - Unknown_Cutoff_T2_No-OTU.csv  = metabolite count data week 2
+  - Unknown_Cutoff_T3_No-OTU.csv  = metabolite count data week 3
+  - Unknown_Cutoff_T4_No-OTU.csv  = metabolite count data week 4
+  - Unknown_Cutoff_T5_No-OTU.csv  = metabolite count data week 5
+  
