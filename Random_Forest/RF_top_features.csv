@@ -1,0 +1,81 @@
+Comparison,Feature,Importance 
+T2_PvL_(BA+WSG),s_Lactobacillus_reuteri,0.24
+T2_PvL_(BA+WSG), Lithocholic acid (NIST14),0.1
+T2_PvL_(BA+WSG), s_Akkermansia_muciniphila,0.08
+T2_PvL_(BA+WSG), 3_-Hydroxy-5-cholenoic acid (NIST14).1,0.06
+T2_PvL_(BA+WSG), Ursocholic acid.3,0.05
+T2_PvL_(BA+WSG), 3_-Hydroxy-5-cholenoic acid (NIST14).4,0.04
+T2_PvL_(BA+WSG), Cholic acid.7,0.03
+T2_PvL_(BA+WSG), s_Parabacteroides_goldsteinii,0.03
+T2_PvL_(BA+WSG), s_Lactobacillus_johnsonii,0.03
+T2_PvL_(BA+WSG), Chenodeoxycholic acid,0.03
+T2_PvL_(Metabolomic+WSG),Bacosine,0.075715112
+T2_PvL_(Metabolomic+WSG), Oleanolic acid methyl ester,0.058372685
+T2_PvL_(Metabolomic+WSG), 4-dihydroxyheptadec-16-en-2-yl acetate,0.056586199
+T2_PvL_(Metabolomic+WSG), s_Akkermansia_muciniphila,0.042088294
+T2_PvL_(Metabolomic+WSG), s_Lactobacillus_gasseri,0.041901455
+T2_PvL_(Metabolomic+WSG), s_Lactobacillus_murinus,0.039570795
+T2_PvL_(Metabolomic+WSG), s_Lactobacillus_johnsonii,0.037748016
+T2_PvL_(Metabolomic+WSG), cis-581114-Eicosatetraenoic acid.1,0.032911706
+T2_PvL_(Metabolomic+WSG), Urobilin (NIST14),0.032726521
+T2_PvL_(Metabolomic+WSG), Phenol,0.030448082
+T2_LvCoL_(BA+WSG),3_-Hydroxy-5-cholenoic acid (NIST14).1,0.115
+T2_LvCoL_(BA+WSG), Cholic acid (NIST14).19,0.1075
+T2_LvCoL_(BA+WSG), Lithocholic acid (NIST14),0.095
+T2_LvCoL_(BA+WSG), Cholic acid (NIST14).17,0.065
+T2_LvCoL_(BA+WSG), Cholic acid methyl ester,0.055
+T2_LvCoL_(BA+WSG), s_Lactobacillus_animalis,0.05
+T2_LvCoL_(BA+WSG), s_Lactobacillus_murinus,0.0425
+T2_LvCoL_(BA+WSG), Tauroursodeoxycholic acid (NIST14).1,0.04
+T2_LvCoL_(BA+WSG), Cholic acid (NIST14).14,0.0375
+T2_LvCoL_(BA+WSG), Taurocholic acid.1,0.0375
+T2_LvCoL_(Metabolomic+WSG),phosphocholine (NIST14),0.126666667
+T2_LvCoL_(Metabolomic+WSG), Oleanolic acid methyl ester,0.11
+T2_LvCoL_(Metabolomic+WSG), cis-581114-Eicosatetraenoic acid.1,0.106666667
+T2_LvCoL_(Metabolomic+WSG), Urobilin (NIST14),0.1
+T2_LvCoL_(Metabolomic+WSG), phosphocholine (NIST14).2,0.093333333
+T2_LvCoL_(Metabolomic+WSG), 1-Palmitoyl-sn-glycero-3-phosphocholine,0.076666667
+T2_LvCoL_(Metabolomic+WSG), Phytomonic acid,0.06
+T2_LvCoL_(Metabolomic+WSG), phosphocholine (NIST14).4,0.04
+T2_LvCoL_(Metabolomic+WSG), 1-Hexadecyl-sn-glycero-3-phosphocholine,0.04
+T2_LvCoL_(Metabolomic+WSG), Urobilin,0.036666667
+T5_PvL_(BA+WSG),s_Candidatus_Arthromitus_sp._SFB-mouse,0.245
+T5_PvL_(BA+WSG), s_Candidatus_Arthromitus_sp._SFB-mouse-NL,0.085
+T5_PvL_(BA+WSG), s_Parabacteroides_goldsteinii,0.075
+T5_PvL_(BA+WSG), s_Lactobacillus_reuteri,0.065
+T5_PvL_(BA+WSG), 12-Ketodeoxycholic acid (NIST14).2,0.065
+T5_PvL_(BA+WSG), s_Lactobacillus_gasseri,0.06
+T5_PvL_(BA+WSG), Cholic acid methyl ester,0.05
+T5_PvL_(BA+WSG), s_Paenibacillus_sp._IHB_B_3084,0.04
+T5_PvL_(BA+WSG), s_Akkermansia_muciniphila,0.04
+T5_PvL_(BA+WSG), Cholic acid methyl ester.2,0.03
+T5_PvL_(Metabolomic+WSG),s_Lactobacillus_gasseri,0.054588925
+T5_PvL_(Metabolomic+WSG), Bacosine,0.047087786
+T5_PvL_(Metabolomic+WSG), s_Lactobacillus_reuteri,0.043220058
+T5_PvL_(Metabolomic+WSG), s_Entomoplasma_freundtii,0.041432179
+T5_PvL_(Metabolomic+WSG), s_Parabacteroides_goldsteinii,0.041286075
+T5_PvL_(Metabolomic+WSG), s_Candidatus_Arthromitus_sp._SFB-mouse,0.039095238
+T5_PvL_(Metabolomic+WSG), s_Lactobacillus_johnsonii,0.037401876
+T5_PvL_(Metabolomic+WSG), s_Vibrio_sp._2521-89,0.037346849
+T5_PvL_(Metabolomic+WSG), s_Bifidobacterium_pseudolongum,0.037125216
+T5_PvL_(Metabolomic+WSG), s_Candidatus_Arthromitus_sp._SFB-mouse-NL,0.034681073
+T5_LvCoL_(BA+WSG),_-Muricholic acid.13,0.045714286
+T5_LvCoL_(BA+WSG), s_Bifidobacterium_pseudolongum,0.032519841
+T5_LvCoL_(BA+WSG), s_Borrelia_anserina,0.032261905
+T5_LvCoL_(BA+WSG), s_Entomoplasma_freundtii,0.030674603
+T5_LvCoL_(BA+WSG), _-Hyodeoxycholic acid.7,0.02952381
+T5_LvCoL_(BA+WSG), s_Corynebacterium_uterequi,0.029007937
+T5_LvCoL_(BA+WSG), s_Lactobacillus_johnsonii,0.028571429
+T5_LvCoL_(BA+WSG), s_Pseudobutyrivibrio_ruminis,0.02829932
+T5_LvCoL_(BA+WSG), s_Lactobacillus_gasseri,0.028055556
+T5_LvCoL_(BA+WSG), Cholic acid methyl ester,0.024351852
+T5_LvCoL_(Metabolomic+WSG),s_Corynebacterium_uterequi,0.153333333
+T5_LvCoL_(Metabolomic+WSG), 1-Palmitoyl-sn-glycero-3-phosphocholine,0.136666667
+T5_LvCoL_(Metabolomic+WSG), cis-581114-Eicosatetraenoic acid.1,0.105555556
+T5_LvCoL_(Metabolomic+WSG), 1-Phenanthrenecarboxylic acid.1,0.046666667
+T5_LvCoL_(Metabolomic+WSG), Hederagenin,0.043333333
+T5_LvCoL_(Metabolomic+WSG), Sumaresinolic acid,0.04
+T5_LvCoL_(Metabolomic+WSG), Linoleic acid methyl ester,0.038809524
+T5_LvCoL_(Metabolomic+WSG), s_Lactobacillus_gasseri,0.029166667
+T5_LvCoL_(Metabolomic+WSG), phosphoethanolamine (NIST14),0.028888889
+T5_LvCoL_(Metabolomic+WSG), 3-Hydroxykynurenine,0.028888889
