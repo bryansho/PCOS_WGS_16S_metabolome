@@ -25,3 +25,13 @@ CAPs analysis of beta-diversity using bray-curtis dissimilarity. Three data sets
   - T5_Metabolites_WGS.csv = Week 5 combined metabolite and WGS data
   - taxonomy_metabolites_16S.csv = Metabolite and 16S taxonomy mapping file 
   - taxonomy_metabolites_WGS.csv = Metabolite and WGS taxonomy mapping file
+  
+  ### Permanova Folder (Includes files for individual CAP analysis)
+  #### 16S
+  - 
+  - sckitbio_permanova.ipynb = Jupyter notebook that includes analysis for creating CAPs analysis for Metabolite (week 0 - week 5), 16S (week 2 and 5), WGS (week 2 and 5)
+  - otu_table_T2.tsv = Week 2 WGS centrifuge microbial taxonomy count data
+  - otu_table_T2.tsv = Week 5 WGS centrifuge microbial taxonomy count data
+  - mapping_file_cohousing2018.tsv = 16S QIIME taxonomy count data
+  #### WGS
+  
