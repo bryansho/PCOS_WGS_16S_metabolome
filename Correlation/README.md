@@ -1,7 +1,12 @@
 # Bile acids
     
-    correlation_omics.ipynb  = Jupyter notebook that includes analysis for creating correlation analysis for the combined bile acids and WGS datasets as/n well as the bile acid and 16S datasets.
-    Mapping_file_w_og.csv = bile acids Mapping file
-    cohouse_non_mapping.csv = Mapping file treating LET-LET/P-P as one group and LET-P/P-LET as another
-    Bile_Acids_Cutoff.csv = count data for all weeks for bile acids
-    taxonomy_cutoff.csv  = bile acids taxonomy mapping file
+    correlation_omics.ipynb  = Jupyter notebook that includes analysis for creating correlation analysis for the combined bile acids and WGS datasets as well as the bile acid and 16S datasets.
+    T2_RF_limited_features_combined_LET.csv = count data for week 2 and treatment LET for the combined bile acids and WGS
+    T2_RF_limited_features_combined_LETch.csv = count data for week 2 and treatment LET co-house for the combined bile acids and WGS
+    T2_RF_limited_features_combined_P.csv = count data for week 2 and treatment Placebo for the combined bile acids and WGS
+    T2_RF_limited_features_combined_Pch.csv = count data for week 2 and treatment Placebo co-house for the combined bile acids and WGS
+    T5_RF_limited_features_combined_LET.csv = count data for week 5 and treatment LET for the combined bile acids and WGS
+    T5_RF_limited_features_combined_LETch.csv = count data for week 5 and treatment LET co-house for the combined bile acids and WGS
+    T5_RF_limited_features_combined_P.csv = count data for week 5 and treatment Placebo for the combined bile acids and WGS
+    T5_RF_limited_features_combined_Pch.csv = count data for week 5 and treatment Placebo co-house for the combined bile acids and WGS
+    T5_selected_features_combined_P.csv = Test data set
