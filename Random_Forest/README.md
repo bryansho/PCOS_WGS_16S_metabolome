@@ -1,5 +1,5 @@
 # Description
-Random forest on multi-omics and independent dataset. 
+Random forest on multi-omics and independent dataset. Only include top 10 results from DESEq2.
 
 # Multi-omics
 ## T2/T5 (Same file structure)
@@ -18,3 +18,7 @@ Random forest on multi-omics and independent dataset.
   - T2_Known_PvL.csv = Placebo vs. Letrozole metabolite dataset
   - T2_WSG_LvCoL.csv = Letrozole vs Cohoused-letrozole WGS dataset
   - T2_WSG_PvL.csv = Placebo vs. Letrozole WGS dataset
+
+# Graphing results
+  - RF_Feature_graph.ipynb = graph all random forest results
+  - RF_top_features.csv = all random forest results
