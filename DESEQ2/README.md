@@ -14,3 +14,11 @@
     cohouse_non_mapping.csv = Mapping file treating LET-LET/P-P as one group and LET-P/P-LET as another
     Known_Cutoff_no_BA.csv = count data for all weeks for metabolites with no bile acids
     taxonomy_cutoff_no_BA.csv  = metabolites with no bile acids taxonomy mapping file   
+
+# WGS (T2/T5, both time point follows same file structure)
+    Deseq2_T5_mapping.csv = Sample mapping file
+    T5_filtered_deseq2.ipynb = Jupyter notebook with DESEq2 execution
+    T5_filtered_greater_00001.csv = T5 centrifuge microbial counts
+    T5_filtered_greater_00001_CoLvL_deseq.csv = DESEq2 T5 LET<sup>ch</sup> vs. LET comparison
+    T5_filtered_greater_00001_PvL_deseq.csv  = DESEq2 T5 P vs. LET comparison
+    T5_filtered_log2fold_graph.ipynb = Jupyter notebook to generate DESEq2 result graph
