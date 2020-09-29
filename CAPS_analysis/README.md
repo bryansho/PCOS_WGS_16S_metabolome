@@ -37,3 +37,8 @@ CAPs analysis of beta-diversity using bray-curtis dissimilarity. Three data sets
   - Permanova_T2_Centrifuge.ipynb = Jupyter notebook that includes Permanova analysis for WGS (week 2/week 5)
   - Deseq2_T2_mapping.csv = WGS Week 2 mapping file. Includes meta data for each sample (week 2/week 5)
   - Permanova_T2_filtered_greater_00001.csv = WGS Week 2 count data (week 2/week 5)
+  #### Metabolite + WGS
+  ##### T2/T5 (Both directory follow same file structure)
+  - Deseq2_T2_mapping.csv = Sample Mapping file 
+  - Permanova_T2_Omics.ipynb = Jupyter notebook for PERMANOVA analysis
+  - T2_Metabolites_WGS.csv = Combined count data
