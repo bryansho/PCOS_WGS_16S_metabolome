@@ -5,4 +5,4 @@ CAPs analysis of beta-diversity using bray-curtis dissimilarity. Three data sets
 
 ### Seperate Folder
   - 16s_map.csv = 16S mapping file. Includes sample ID associated with timepoint and treatment.
-  - test
+  - CAP.ipynb = Jupyter notebook that includes analysis for creating CAPs analysis for Metabolite (week 0 - week 5), 16S (week 2 and 5), WGS (week 2 and 5)
