@@ -26,7 +26,7 @@
 # 16S (T2/T5, both time point follows same file structure)
     mapping_file_cohousing2018.tsv  = Sample mapping file
     Deseq2.ipynb  = Jupyter notebook with DESEq2 execution
-    otu_table_no_singleton-json.biom = T5 centrifuge microbial counts biom table
+    otu_table_no_singleton-json.biom = T5 OTU biom table
     rep_set.tre = Tree file
     lvcol_t5.csv = DESEq2 T5 LET<sup>ch</sup> vs. LET comparison
     pvl_t5.csv  = DESEq2 T5 P vs. LET comparison
