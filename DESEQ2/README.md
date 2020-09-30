@@ -22,3 +22,12 @@
     T5_filtered_greater_00001_CoLvL_deseq.csv = DESEq2 T5 LET<sup>ch</sup> vs. LET comparison
     T5_filtered_greater_00001_PvL_deseq.csv  = DESEq2 T5 P vs. LET comparison
     T5_filtered_log2fold_graph.ipynb = Jupyter notebook to generate DESEq2 result graph
+    
+# 16S (T2/T5, both time point follows same file structure)
+    mapping_file_cohousing2018.tsv  = Sample mapping file
+    Deseq2.ipynb  = Jupyter notebook with DESEq2 execution
+    otu_table_no_singleton-json.biom = T5 centrifuge microbial counts biom table
+    rep_set.tre = Tree file
+    lvcol_t5.csv = DESEq2 T5 LET<sup>ch</sup> vs. LET comparison
+    pvl_t5.csv  = DESEq2 T5 P vs. LET comparison
+    Deseq2_Plot.ipynb  = Jupyter notebook to generate DESEq2 result graph
