@@ -1,0 +1,81 @@
+Comparison,Feature,Importance
+T2_PvL_(BA+16s),Lithocholic acid (NIST14),0.126667
+T2_PvL_(BA+16s),3β-Hydroxy-5-cholenoic acid (NIST14),0.12
+T2_PvL_(BA+16s),β-Hyodeoxycholic acid.7,0.071111
+T2_PvL_(BA+16s),S24-7,0.07
+T2_PvL_(BA+16s),Deoxycholic acid (NIST14).1,0.048968
+T2_PvL_(BA+16s),Chenodeoxycholic acid,0.034524
+T2_PvL_(BA+16s),Coprobacillus,0.033333
+T2_PvL_(BA+16s),Lachnospiraceae,0.033333
+T2_PvL_(BA+16s),Cholic acid (NIST14).17,0.033254
+T2_PvL_(BA+16s),S24-7,0.032063
+T2_PvL_(Metabolic+16s),Urobilin (NIST14),0.2975
+T2_PvL_(Metabolic+16s),Linoleic acid methyl ester,0.1175
+T2_PvL_(Metabolic+16s),Bacosine,0.0875
+T2_PvL_(Metabolic+16s),S24-7,0.0825
+T2_PvL_(Metabolic+16s),Oleanolic acid methyl ester,0.07
+T2_PvL_(Metabolic+16s),Akkermansia,0.035
+T2_PvL_(Metabolic+16s),Coprobacillus,0.025
+T2_PvL_(Metabolic+16s),Lachnospiraceae,0.0225
+T2_PvL_(Metabolic+16s),S24-7,0.0225
+T2_PvL_(Metabolic+16s),Clostridium,0.02
+T2_LvCoL_(BA+16s),Cholic acid (NIST14).19,0.125984
+T2_LvCoL_(BA+16s),Tauroursodeoxycholic acid (NIST14).1,0.11811
+T2_LvCoL_(BA+16s),Cholic acid (NIST14).17,0.110236
+T2_LvCoL_(BA+16s),Lithocholic acid (NIST14),0.110236
+T2_LvCoL_(BA+16s),Cholic acid (NIST14).18,0.102362
+T2_LvCoL_(BA+16s),3β-Hydroxy-5-cholenoic acid (NIST14).1,0.086614
+T2_LvCoL_(BA+16s),Taurocholic acid.2,0.055118
+T2_LvCoL_(BA+16s),Ursocholic acid.3,0.03937
+T2_LvCoL_(BA+16s),Cholic acid (NIST14).14,0.031496
+T2_LvCoL_(BA+16s),Taurocholic acid.3,0.031496
+T2_LvCoL_(Metabolic+16s),1-Palmitoyl-sn-glycero-3-phosphocholine,0.12
+T2_LvCoL_(Metabolic+16s),Phytomonic acid,0.1
+T2_LvCoL_(Metabolic+16s),Oleanolic acid methyl ester,0.1
+T2_LvCoL_(Metabolic+16s),phosphocholine (NIST14).2,0.08
+T2_LvCoL_(Metabolic+16s),Urobilin,0.08
+T2_LvCoL_(Metabolic+16s),Urobilin (NIST14),0.08
+T2_LvCoL_(Metabolic+16s),phosphocholine (NIST14),0.07
+T2_LvCoL_(Metabolic+16s),4-Cholestenone,0.06
+T2_LvCoL_(Metabolic+16s),S24-7,0.05
+T2_LvCoL_(Metabolic+16s),Genistein,0.03
+T5_PvL_(BA+16s),Ruminococcus,0.102579
+T5_PvL_(BA+16s),Coprobacillus,0.074048
+T5_PvL_(BA+16s),Deoxycholic acid (NIST14).2,0.044153
+T5_PvL_(BA+16s),Rikenellaceae,0.038836
+T5_PvL_(BA+16s),12-Ketodeoxycholic acid (NIST14).2,0.0375
+T5_PvL_(BA+16s),Akkermansia,0.028421
+T5_PvL_(BA+16s),Lachnospiraceae,0.027646
+T5_PvL_(BA+16s),Lachnospiraceae,0.027063
+T5_PvL_(BA+16s),Lachnospiraceae,0.024841
+T5_PvL_(BA+16s),Lachnospiraceae,0.023093
+T5_PvL_(Metabolic+16s),Ruminococcus,0.085303
+T5_PvL_(Metabolic+16s),Akkermansia,0.077905
+T5_PvL_(Metabolic+16s),Lachnospiraceae,0.041786
+T5_PvL_(Metabolic+16s),Ruminococcaceae,0.038927
+T5_PvL_(Metabolic+16s),Rikenellaceae,0.037054
+T5_PvL_(Metabolic+16s),Lachnospiraceae,0.036528
+T5_PvL_(Metabolic+16s),Linoleic acid methyl ester,0.035863
+T5_PvL_(Metabolic+16s),Lachnospiraceae,0.035
+T5_PvL_(Metabolic+16s),Lachnospiraceae,0.029286
+T5_PvL_(Metabolic+16s),Coprobacillus,0.028512
+T5_LvCoL_(BA+16s),β-Muricholic acid.11,0.081633
+T5_LvCoL_(BA+16s),γ-Muricholic acid.6,0.07398
+T5_LvCoL_(BA+16s),β-Hyodeoxycholic acid.13,0.061224
+T5_LvCoL_(BA+16s),Deoxycholic acid (NIST14).5,0.053878
+T5_LvCoL_(BA+16s),Lachnospiraceae,0.052296
+T5_LvCoL_(BA+16s),Lithocholic acid (NIST14),0.044949
+T5_LvCoL_(BA+16s),Lachnospiraceae,0.040816
+T5_LvCoL_(BA+16s),Cholic acid (NIST14).5,0.040816
+T5_LvCoL_(BA+16s),Ruminococcaceae,0.033469
+T5_LvCoL_(BA+16s),Ursodeoxycholic acid.2,0.031888
+T5_LvCoL_(Metabolic+16s),3-Hydroxykynurenine,0.073615
+T5_LvCoL_(Metabolic+16s),Lachnospiraceae,0.064459
+T5_LvCoL_(Metabolic+16s),Lachnospiraceae,0.057908
+T5_LvCoL_(Metabolic+16s),Lachnospiraceae,0.055044
+T5_LvCoL_(Metabolic+16s),phosphocholine (NIST14),0.046397
+T5_LvCoL_(Metabolic+16s),Phytomonic acid,0.037278
+T5_LvCoL_(Metabolic+16s),Lachnospiraceae,0.030128
+T5_LvCoL_(Metabolic+16s),Coprobacillus,0.029337
+T5_LvCoL_(Metabolic+16s),Anaeroplasma,0.02828
+T5_LvCoL_(Metabolic+16s),Akkermansia,0.027697
