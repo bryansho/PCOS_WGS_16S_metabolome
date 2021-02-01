@@ -1,6 +1,6 @@
 # Bile acids
     
-    correlation_omics.ipynb  = Jupyter notebook that includes analysis for creating correlation analysis for the combined bile acids and WGS datasets as well as the bile acid and 16S datasets.
+    centered log ratio.ipynb  = Jupyter notebook that includes analysis for creating correlation analysis for the combined bile acids and WGS datasets as well as the bile acid and 16S datasets.
     T2_RF_limited_features_combined_LET.csv = count data for week 2 and treatment LET for the combined bile acids and WGS
     T2_RF_limited_features_combined_LETch.csv = count data for week 2 and treatment LET co-house for the combined bile acids and WGS
     T2_RF_limited_features_combined_P.csv = count data for week 2 and treatment Placebo for the combined bile acids and WGS
