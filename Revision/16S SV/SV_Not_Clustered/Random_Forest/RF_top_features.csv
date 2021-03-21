@@ -1,0 +1,41 @@
+Comparison,Feature,Importance
+T2_PvL_(BA+16s),Urobilin (NIST14),0.158
+T2_PvL_(BA+16s), g__Bacteroides.2,0.152
+T2_PvL_(BA+16s), g__Bacteroides.5,0.148
+T2_PvL_(BA+16s),Bacosine,0.054
+T2_PvL_(BA+16s), g__Lactobacillus,0.048
+T2_PvL_(BA+16s),Linoleic acid methyl ester,0.048
+T2_PvL_(BA+16s), f__S24-7.57,0.044
+T2_PvL_(BA+16s),Oleanolic acid methyl ester,0.044
+T2_PvL_(BA+16s), f__S24-7.5,0.04
+T2_PvL_(BA+16s), g__Lactobacillus.5,0.024
+T2_LvCoL_(BA+16s), f__S24-7.36,0.214285714285714
+T2_LvCoL_(BA+16s),Cholic acid (NIST14).5,0.142857142857143
+T2_LvCoL_(BA+16s), f__S24-7.40,0.071428571428572
+T2_LvCoL_(BA+16s),Cholic acid (NIST14).17,0.071428571428572
+T2_LvCoL_(BA+16s),β-Muricholic acid.11,0.071428571428572
+T2_LvCoL_(BA+16s), f__S24-7.2,0.071428571428572
+T2_LvCoL_(BA+16s),Ursocholic acid.3,0.071428571428572
+T2_LvCoL_(BA+16s),3β-Hydroxy-5-cholenoic acid (NIST14).1,0.071428571428572
+T2_LvCoL_(BA+16s),Taurocholic acid.1,0.071428571428572
+T2_LvCoL_(BA+16s),Cholic acid.8,0.071428571428572
+T5_PvL_(BA+16s), f__S24-7.39,0.115
+T5_PvL_(BA+16s), f__S24-7.54,0.1
+T5_PvL_(BA+16s),12-Ketodeoxycholic acid (NIST14).2,0.085
+T5_PvL_(BA+16s), f__S24-7.45,0.083333333333333
+T5_PvL_(BA+16s), f__Rikenellaceae,0.08
+T5_PvL_(BA+16s), g__Bacteroides.4,0.043333333333333
+T5_PvL_(BA+16s), f__S24-7.47,0.043333333333333
+T5_PvL_(BA+16s),Deoxycholic acid (NIST14).2,0.04
+T5_PvL_(BA+16s), f__S24-7.35,0.04
+T5_PvL_(BA+16s), f__S24-7.23,0.031666666666667
+T5_LvCoL_(BA+16s), f__S24-7.24,0.153061224489796
+T5_LvCoL_(BA+16s), f__S24-7.54,0.056122448979592
+T5_LvCoL_(BA+16s),β-Muricholic acid.11,0.056122448979592
+T5_LvCoL_(BA+16s),β-Hyodeoxycholic acid.13,0.051020408163265
+T5_LvCoL_(BA+16s), f__S24-7.41,0.051020408163265
+T5_LvCoL_(BA+16s),Deoxycholic acid (NIST14).5,0.040816326530612
+T5_LvCoL_(BA+16s), f__S24-7.47,0.030612244897959
+T5_LvCoL_(BA+16s),γ-Muricholic acid.6,0.030612244897959
+T5_LvCoL_(BA+16s), f__S24-7.57,0.030612244897959
+T5_LvCoL_(BA+16s),γ-Muricholic acid.13,0.025510204081633
