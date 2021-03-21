@@ -1,4 +1,4 @@
-CLR_transform: WGS and Metabolite CLR related transformation and analyze\
+CLR_transform: WGS and Metabolite CLR related transformation and analyze
 | Dataset | P-value | R^2 value |
 | --------------- | --------------- | --------------- |
 | WGS (Timepoint 2) | 0.038 | 0.195847 |
@@ -6,6 +6,4 @@ CLR_transform: WGS and Metabolite CLR related transformation and analyze\
 | Metabolite (Timepoint 2) | 0.001 | 0.2807557 |
 | Metabolite (Timepoint 5) | 0.021 | 0.1099516 | 
 
-
-\
 MixOmics: MixOmics DIABLO plot
