@@ -9,3 +9,5 @@ MixOmics
 Results:
  - Timepoint Results
 ![Image](correlation_timepoint.png)
+ - Treatment Results
+![Image](correlation_treatment.png)
