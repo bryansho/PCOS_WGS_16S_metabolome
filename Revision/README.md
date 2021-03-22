@@ -10,4 +10,4 @@ CLR_transform: WGS and Metabolite CLR related transformation and analyze
 
 MixOmics: MixOmics DIABLO plot
   - Timepoint results
-  ![Image](Revision/mixOmics/correlation_timepoint.png)
+  ![Image](/mixOmics/correlation_timepoint.png)
