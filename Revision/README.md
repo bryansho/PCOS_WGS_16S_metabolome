@@ -9,3 +9,5 @@ CLR_transform: WGS and Metabolite CLR related transformation and analyze
 | 16s SV (Timepoint 5) | 0.43 | 0.1122627 |
 
 MixOmics: MixOmics DIABLO plot
+  - Timepoint results
+  ![Image](mixOmics/correlation_timepoint.png)
