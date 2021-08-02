@@ -1,0 +1,48 @@
+"","rowid","taxa_id","x","y","zero_ind","Metabolite","W.proportion"
+"1",1,"33",-1.65361640864191,27,"Yes","Spectral Match to Urobilin from NIST14",1
+"2",2,"132",-1.36091164622067,27,"Yes","PC(16:1/0:0); [M+H]+ C24H49N1O7P1",1
+"3",3,"149",1.27711035979007,27,"Yes","NCGC00380833-01_C20H28O5_Gibbane-1,10-dicarboxylic acid, 2-hydroxy-1,4a-dimethyl-8-methylene-, (1alpha,2beta,4aalpha,4bbeta,10beta)-",1
+"4",4,"296",-1.26285022289225,27,"Yes",".alpha.-Tocopherol nicotinate",1
+"5",5,"116",-0.894218858443313,27,"Yes","Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphocholine from NIST14",1
+"6",6,"234",-0.866232180131825,27,"Yes","1-Palmitoyl-sn-glycero-3-phosphocholine",1
+"7",7,"143",-0.633161820847179,27,"Yes","NCGC00385373-01_C20H28O3_1-Phenanthrenecarboxylic acid, 1,2,3,4,4a,9,10,10a-octahydro-9-hydroxy-1,4a-dimethyl-7-(1-methylethyl)-, (1S,9R)-",1
+"8",8,"186",0.617523627426783,27,"Yes","cis-4,10,13,16-Docosatetraenoic acid",1
+"9",9,"207",-0.601104968690224,27,"Yes","beta-Sitostenone",1
+"10",10,"183",0.49429860791153,27,"Yes","cis-Vaccenic acid",1
+"11",11,"215",-0.474466200520185,27,"Yes","4.alpha.-Hydroxystanozolol",1
+"12",12,"205",0.435495927794487,27,"Yes","Caulophyllogenin",1
+"13",13,"123",-0.412884109299502,27,"Yes","Ricinoleic Acid methyl ester",1
+"14",14,"212",0.408573150046607,27,"Yes","7-Keto-3.alpha.,12-.alpha.-dihydroxycholanic acid",1
+"15",15,"138",-0.239329447625183,27,"Yes","Oleanolic acid",1
+"16",16,"180",-0.221824084869569,27,"Yes","Daidzin",1
+"17",17,"136",-0.195205838624133,27,"Yes","Oleic acid methyl ester",1
+"18",18,"185",-0.193905204514259,27,"Yes","cis-5,8,11,14-Eicosatetraenoic acid",1
+"19",19,"65",0.192870602415156,27,"Yes","Spectral Match to D-erythro-C18-Sphingosine from NIST14",1
+"20",20,"128",0.0943889732413401,27,"Yes","Phytomonic acid",1
+"21",21,"161",0.0689586906983743,27,"Yes","Methyl deoxycholate",1
+"22",22,"107",-0.0561040840563975,27,"Yes","Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14",1
+"23",23,"176",-0.0408079115583997,27,"Yes","Echinocystic acid",1
+"24",24,"14",0,27,"Yes","Urobilin",1
+"25",25,"20",0,27,"Yes","Teprenone",1
+"26",26,"34",0,27,"Yes","Spectral Match to Urobilin from NIST14",1
+"27",27,"35",0,27,"Yes","Spectral Match to Urobilin from NIST14",1
+"28",28,"89",0,27,"Yes","Spectral Match to 9(10)-EpOME from NIST14",1
+"29",29,"112",0,27,"Yes","Spectral Match to 1-Octadecanoyl-sn-glycero-3-phosphocholine from NIST14",1
+"30",30,"113",0,27,"Yes","Spectral Match to 1-Myristoyl-sn-glycero-3-phosphocholine from NIST14",1
+"31",31,"115",0,27,"Yes","Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphoethanolamine from NIST14",1
+"32",32,"131",0,27,"Yes","PC(O-16:1/0:0); [M+H]+ C24H51N1O6P1",1
+"33",33,"152",0,27,"Yes","NCGC00179905-02!(E)-3-(4-methoxyphenyl)-1-[2,4,6-trimethoxy-3-(3-methylbut-2-enyl)phenyl]prop-2-en-1-one",1
+"34",34,"153",0,27,"Yes","NCGC00179905-02!(E)-3-(4-methoxyphenyl)-1-[2,4,6-trimethoxy-3-(3-methylbut-2-enyl)phenyl]prop-2-en-1-one",1
+"35",35,"172",0,27,"Yes","Hederagenin",1
+"36",36,"181",0,27,"Yes","Coproporphyrin I",1
+"37",37,"182",0,27,"Yes","Coproporphyrin I",1
+"38",38,"211",0,27,"Yes","9-Oxo-10E,12Z-octadecadienoic acid",1
+"39",39,"213",0,27,"Yes","5-Hexenoic acid, 6-[(2R,3S)-3-[[[(4-chloro-2-methylphenyl)sulfonyl]amino]methyl]bicyclo[2.2.2]oct-2-yl]-, (5Z)-",1
+"40",40,"218",0,27,"Yes","4-Cholestenone",1
+"41",41,"219",0,27,"Yes","3.beta.-Hydroxy-5-cholestenoic acid",1
+"42",42,"227",0,27,"Yes","3-Hydroxykynurenine",1
+"43",43,"239",0,27,"Yes","1-Hexadecyl-sn-glycero-3-phosphocholine",1
+"44",44,"242",0,27,"Yes","(+)-Fluprostenol lactone diol",1
+"45",45,"208",1.14652346657754,14,"No","Bacosine",0.518518518518518
+"46",46,"137",-0.571610161607751,6,"No","Oleanolic acid methyl ester",0.222222222222222
+"47",47,"144",0.077958946620452,1,"No","NCGC00385126-01!1,2-dihydroxyheptadec-16-en-4-yl acetate",0.037037037037037

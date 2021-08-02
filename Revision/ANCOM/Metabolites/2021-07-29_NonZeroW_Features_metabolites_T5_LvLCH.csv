@@ -1,0 +1,38 @@
+"","rowid","taxa_id","x","y","zero_ind","Metabolite","W.proportion"
+"1",1,"204",-0.939346137450095,36,"Yes","Ceramide (18:1/16:0)",1
+"2",2,"149",0.837005532642405,36,"Yes","NCGC00380833-01_C20H28O5_Gibbane-1,10-dicarboxylic acid, 2-hydroxy-1,4a-dimethyl-8-methylene-, (1alpha,2beta,4aalpha,4bbeta,10beta)-",1
+"3",3,"219",0.789858932826818,36,"Yes","3.beta.-Hydroxy-5-cholestenoic acid",1
+"4",4,"116",0.777258806979939,36,"Yes","Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphocholine from NIST14",1
+"5",5,"176",0.752718345769567,36,"Yes","Echinocystic acid",1
+"6",6,"218",0.653523111811044,36,"Yes","4-Cholestenone",1
+"7",7,"110",0.592254029377896,36,"Yes","Spectral Match to 1-Palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14",1
+"8",8,"136",-0.57371178283784,36,"Yes","Oleic acid methyl ester",1
+"9",9,"211",0.571147939772426,36,"Yes","9-Oxo-10E,12Z-octadecadienoic acid",1
+"10",10,"227",-0.484087692542089,36,"Yes","3-Hydroxykynurenine",1
+"11",11,"239",0.467570077336259,36,"Yes","1-Hexadecyl-sn-glycero-3-phosphocholine",1
+"12",12,"207",0.433041400018044,36,"Yes","beta-Sitostenone",1
+"13",13,"115",-0.38972098768127,36,"Yes","Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphoethanolamine from NIST14",1
+"14",14,"141",0.387539611463646,36,"Yes","NCGC00385642-01!1,4-dihydroxyheptadec-16-en-2-yl acetate",1
+"15",15,"131",0.376701461539435,36,"Yes","PC(O-16:1/0:0); [M+H]+ C24H51N1O6P1",1
+"16",16,"120",0.285816993371368,36,"Yes","Spectral Match to (-)-Riboflavin from NIST14",1
+"17",17,"208",0.270692969373165,36,"Yes","Bacosine",1
+"18",18,"161",0.209979080750243,36,"Yes","Methyl deoxycholate",1
+"19",19,"230",-0.19404632718122,36,"Yes","17-Octadecynoic acid",1
+"20",20,"130",-0.189379662013981,36,"Yes","Phenol, 5-(1,1-dimethyloctyl)-2-[(1S,3S)-3-hydroxycyclohexyl]-",1
+"21",21,"35",-0.179400265345055,36,"Yes","Spectral Match to Urobilin from NIST14",1
+"22",22,"212",-0.0774467846853604,36,"Yes","7-Keto-3.alpha.,12-.alpha.-dihydroxycholanic acid",1
+"23",23,"180",0.0685830483056884,36,"Yes","Daidzin",1
+"24",24,"168",-0.0620892254508267,36,"Yes","Linoleic acid methyl ester",1
+"25",25,"28",-0.0553264059403224,36,"Yes","Sumaresinolic acid",1
+"26",26,"34",0,36,"Yes","Spectral Match to Urobilin from NIST14",1
+"27",27,"38",0,36,"Yes","Spectral Match to Tris(2-butoxyethyl) phosphate from NIST14",1
+"28",28,"47",0,36,"Yes","Spectral Match to Phe-Pro from NIST14",1
+"29",29,"91",0,36,"Yes","Spectral Match to 9-Oxo-10E,12Z-octadecadienoic acid from NIST14",1
+"30",30,"138",0,36,"Yes","Oleanolic acid",1
+"31",31,"153",0,36,"Yes","NCGC00179905-02!(E)-3-(4-methoxyphenyl)-1-[2,4,6-trimethoxy-3-(3-methylbut-2-enyl)phenyl]prop-2-en-1-one",1
+"32",32,"167",0,36,"Yes","Medicagenic acid",1
+"33",33,"182",0,36,"Yes","Coproporphyrin I",1
+"34",34,"184",0,36,"Yes","cis-5,8,11,14-Eicosatetraenoic acid",1
+"35",35,"187",0,36,"Yes","cis-12-Octadecenoic acid methyl ester",1
+"36",36,"213",0,36,"Yes","5-Hexenoic acid, 6-[(2R,3S)-3-[[[(4-chloro-2-methylphenyl)sulfonyl]amino]methyl]bicyclo[2.2.2]oct-2-yl]-, (5Z)-",1
+"37",37,"217",0,36,"Yes","4-Pregnene-20.beta.-ol-3-one",1

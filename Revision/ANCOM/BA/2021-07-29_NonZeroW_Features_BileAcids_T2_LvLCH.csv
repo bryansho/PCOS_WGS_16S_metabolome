@@ -1,0 +1,69 @@
+"","rowid","taxa_id","x","y","zero_ind","BA","W.proportion"
+"1",1,"165",2.02425646783367,18,"Yes","Ursodiol",1
+"2",2,"120",1.81802213404106,18,"Yes","Cholic acid (NIST14)",1
+"3",3,"106",-1.47858628665243,18,"Yes","Cholic acid (NIST14)",1
+"4",4,"115",-1.47077945325592,18,"Yes","Cholic acid (NIST14)",1
+"5",5,"136",1.32029947485245,18,"Yes","Lithocholic acid (NIST14)",1
+"6",6,"140",1.30126946718426,18,"Yes","Taurocholic acid(NIST14)",1
+"7",7,"142",1.26520733791058,18,"Yes","Tauroursodeoxycholic acid (NIST14)",1
+"8",8,"1",1.26447507640095,18,"Yes",".alpha.-Hyodeoxycholic acid methyl ester",1
+"9",9,"138",1.21105991356482,18,"Yes","Taurocholic acid(NIST14)",1
+"10",10,"156",-1.14420032360276,18,"Yes","Ursocholic acid",1
+"11",11,"148",1.01180000558099,18,"Yes","Taurocholic acid",1
+"12",12,"141",0.956511936105712,18,"Yes","Tauroursodeoxycholic acid (NIST14)",1
+"13",13,"125",-0.953695120193416,18,"Yes","Deoxycholic acid (NIST14)",1
+"14",14,"67",0.94861459237321,18,"Yes","3.beta.-Hydroxy-5-cholenoic acid",1
+"15",15,"41",-0.819422045187387,18,"Yes",".beta.-Muricholic acid",1
+"16",16,"82",-0.779338023791065,18,"Yes","Cholic acid methyl ester",1
+"17",17,"146",0.749028126407762,18,"Yes","Taurocholic acid",1
+"18",18,"102",0.696320056143426,18,"Yes","Cholic acid (NIST14)",1
+"19",19,"139",0.63230420992515,18,"Yes","Taurocholic acid(NIST14)",1
+"20",20,"161",0.596623193300837,18,"Yes","Ursodeoxycholic acid",1
+"21",21,"147",0.523915099609793,18,"Yes","Taurocholic acid",1
+"22",22,"81",-0.522130253101889,18,"Yes","Cholic acid methyl ester",1
+"23",23,"39",-0.48562397532811,18,"Yes",".beta.-Muricholic acid",1
+"24",24,"43",-0.369430484428666,18,"Yes",".beta.-Muricholic acid",1
+"25",25,"153",-0.284899993819346,18,"Yes","Ursocholic acid",1
+"26",26,"11",-0.265683190309037,18,"Yes",".beta.-Hyodeoxycholic acid",1
+"27",27,"8",-0.253484899648285,18,"Yes",".alpha.-Hyodeoxycholic acid methyl ester",1
+"28",28,"76",-0.21222052125734,18,"Yes","Cholic acid",1
+"29",29,"22",-0.173132930480663,18,"Yes",".beta.-Hyodeoxycholic acid",1
+"30",30,"87",0.149327074254292,18,"Yes","12-Ketodeoxycholic acid (NIST14)",1
+"31",31,"134",-0.107340628365051,18,"Yes","Deoxycholic acid (NIST14)",1
+"32",32,"23",-0.0624293699007448,18,"Yes",".beta.-Hyodeoxycholic acid",1
+"33",33,"144",0.0612142066748543,18,"Yes","Ursodeoxycholic acid (NIST14)",1
+"34",34,"116",0.0486766933989364,18,"Yes","Cholic acid (NIST14)",1
+"35",35,"72",0.0221713422711454,18,"Yes","Cholic acid",1
+"36",36,"2",-0.0191630067117996,18,"Yes",".alpha.-Hyodeoxycholic acid methyl ester",1
+"37",37,"6",0,18,"Yes",".alpha.-Hyodeoxycholic acid methyl ester",1
+"38",38,"7",0,18,"Yes",".alpha.-Hyodeoxycholic acid methyl ester",1
+"39",39,"17",0,18,"Yes",".beta.-Hyodeoxycholic acid",1
+"40",40,"19",0,18,"Yes",".beta.-Hyodeoxycholic acid",1
+"41",41,"25",0,18,"Yes",".beta.-Hyodeoxycholic acid",1
+"42",42,"34",0,18,"Yes",".beta.-Muricholic acid",1
+"43",43,"36",0,18,"Yes",".beta.-Muricholic acid",1
+"44",44,"40",0,18,"Yes",".beta.-Muricholic acid",1
+"45",45,"58",0,18,"Yes",".gamma.-Muricholic acid",1
+"46",46,"69",0,18,"Yes","Cholic acid",1
+"47",47,"73",0,18,"Yes","Cholic acid",1
+"48",48,"83",0,18,"Yes","Cholic acid methyl ester",1
+"49",49,"84",0,18,"Yes","Deoxycholic acid",1
+"50",50,"86",0,18,"Yes","Deoxycholic acid",1
+"51",51,"90",0,18,"Yes","12-Ketodeoxycholic acid (NIST14)",1
+"52",52,"91",0,18,"Yes","12-Ketodeoxycholic acid (NIST14)",1
+"53",53,"99",0,18,"Yes","3.beta.-Hydroxy-5-cholenoic acid (NIST14)",1
+"54",54,"101",0,18,"Yes","Cholic acid (NIST14)",1
+"55",55,"105",0,18,"Yes","Cholic acid (NIST14)",1
+"56",56,"108",0,18,"Yes","Cholic acid (NIST14)",1
+"57",57,"123",0,18,"Yes","Deoxycholic acid (NIST14)",1
+"58",58,"127",0,18,"Yes","Deoxycholic acid (NIST14)",1
+"59",59,"129",0,18,"Yes","Deoxycholic acid (NIST14)",1
+"60",60,"132",0,18,"Yes","Deoxycholic acid (NIST14)",1
+"61",61,"133",0,18,"Yes","Deoxycholic acid (NIST14)",1
+"62",62,"135",0,18,"Yes","Deoxycholic acid (NIST14)",1
+"63",63,"145",0,18,"Yes","Taurocholic acid",1
+"64",64,"151",0,18,"Yes","Tauroursodeoxycholic acid",1
+"65",65,"159",0,18,"Yes","Ursocholic acid",1
+"66",66,"163",0,18,"Yes","Ursodeoxycholic acid",1
+"67",67,"137",-1.42758295114198,4,"No","Taurocholic acid(NIST14)",0.222222222222222
+"68",68,"124",0.148828844454205,2,"No","Deoxycholic acid (NIST14)",0.111111111111111

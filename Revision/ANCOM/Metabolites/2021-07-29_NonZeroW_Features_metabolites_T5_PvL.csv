@@ -1,0 +1,36 @@
+"","rowid","taxa_id","x","y","zero_ind","Metabolite","W.proportion"
+"1",1,"116",-1.28394441396463,30,"Yes","Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphocholine from NIST14",1
+"2",2,"181",1.11375053694327,30,"Yes","Coproporphyrin I",1
+"3",3,"110",-0.987799796532125,30,"Yes","Spectral Match to 1-Palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14",1
+"4",4,"204",0.939346137450095,30,"Yes","Ceramide (18:1/16:0)",1
+"5",5,"234",0.939202443124454,30,"Yes","1-Palmitoyl-sn-glycero-3-phosphocholine",1
+"6",6,"138",-0.824289147654856,30,"Yes","Oleanolic acid",1
+"7",7,"208",0.783390052629956,30,"Yes","Bacosine",1
+"8",8,"33",0.574691756927907,30,"Yes","Spectral Match to Urobilin from NIST14",1
+"9",9,"176",-0.565781768654283,30,"Yes","Echinocystic acid",1
+"10",10,"115",0.389720987681271,30,"Yes","Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphoethanolamine from NIST14",1
+"11",11,"183",0.335334431754583,30,"Yes","cis-Vaccenic acid",1
+"12",12,"65",0.263708294278863,30,"Yes","Spectral Match to D-erythro-C18-Sphingosine from NIST14",1
+"13",13,"162",0.239724282928454,30,"Yes","Methyl deoxycholate",1
+"14",14,"186",0.227830261130942,30,"Yes","cis-4,10,13,16-Docosatetraenoic acid",1
+"15",15,"141",-0.183205518947763,30,"Yes","NCGC00385642-01!1,4-dihydroxyheptadec-16-en-2-yl acetate",1
+"16",16,"35",0.179400265345055,30,"Yes","Spectral Match to Urobilin from NIST14",1
+"17",17,"14",0.150571655700324,30,"Yes","Urobilin",1
+"18",18,"227",0.139771545034014,30,"Yes","3-Hydroxykynurenine",1
+"19",19,"89",-0.00303272616999617,30,"Yes","Spectral Match to 9(10)-EpOME from NIST14",1
+"20",20,"136",0,30,"Yes","Oleic acid methyl ester",1
+"21",21,"149",0,30,"Yes","NCGC00380833-01_C20H28O5_Gibbane-1,10-dicarboxylic acid, 2-hydroxy-1,4a-dimethyl-8-methylene-, (1alpha,2beta,4aalpha,4bbeta,10beta)-",1
+"22",22,"152",0,30,"Yes","NCGC00179905-02!(E)-3-(4-methoxyphenyl)-1-[2,4,6-trimethoxy-3-(3-methylbut-2-enyl)phenyl]prop-2-en-1-one",1
+"23",23,"153",0,30,"Yes","NCGC00179905-02!(E)-3-(4-methoxyphenyl)-1-[2,4,6-trimethoxy-3-(3-methylbut-2-enyl)phenyl]prop-2-en-1-one",1
+"24",24,"158",0,30,"Yes","MLS001360619-01!",1
+"25",25,"161",0,30,"Yes","Methyl deoxycholate",1
+"26",26,"165",0,30,"Yes","Methyl .gamma.-linolenate",1
+"27",27,"167",0,30,"Yes","Medicagenic acid",1
+"28",28,"184",0,30,"Yes","cis-5,8,11,14-Eicosatetraenoic acid",1
+"29",29,"207",0,30,"Yes","beta-Sitostenone",1
+"30",30,"211",0,30,"Yes","9-Oxo-10E,12Z-octadecadienoic acid",1
+"31",31,"237",0,30,"Yes","1-Oleoyl-2-hydroxy-sn-glycero-3-phospho-(1'-rac-glycerol)",1
+"32",32,"239",0,30,"Yes","1-Hexadecyl-sn-glycero-3-phosphocholine",1
+"33",33,"296",0,30,"Yes",".alpha.-Tocopherol nicotinate",1
+"34",34,"19",-0.427581515473397,1,"No","trans-13-Octadecenoic acid",0.0333333333333333
+"35",35,"139",0.186930695149015,1,"No","Norbolethone",0.0333333333333333
