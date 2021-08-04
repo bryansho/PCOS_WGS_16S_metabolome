@@ -6,6 +6,9 @@ Scripts for all the analyses can be found in the folders SV_Clustered and SV_Not
 
 The supplementary tables below show summary statistics for the CAPs and Random Forest analyses along with the 16S OTU results show in the manuscript for comparison. 
 
+<img width="871" alt="image" src="https://user-images.githubusercontent.com/20593241/128244056-842cffd1-55a2-4f81-9690-1b15b1d520db.png">
+
+
 Table S1. Comparision of summary statistics for 16S CAP analysis based on amplicon sequence variants (SVs) 					
 denoised using DADA2 to the 16S OTU results. The R2 and P-values were determined via PERMANOVA 					
 with 999 permutations.					
